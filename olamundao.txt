@@ -1,0 +1,10 @@
+Olá mundão!!
+Eu sou o Fernando Marques Ferrira.
+Vamos aprender fundamentos do git?
+Claro!!
+git diff, verificando auterações.
+teste de commit -am "msg"
+testando o git reset HEAD nomedoarquivo
+testando... git reset soft
+testando... git reset mixed
+testando... git reset hard
