@@ -1,0 +1,30 @@
+
+Criar chave SSH
+
+abra o CMD do GitHub
+
+ssh-keygen -t (nome do arquivo ssh) -b 4096 -C "email do github@.com"
+
+enter
+
+se quiser colocar um senha 
+
+enter
+
+pronto
+
+
+vai aparecer a sua chave 
+
+
+copia sua chave
+
+vai no github
+
+vai em configurações
+
+vai em SSH e GPG..
+
+clica no botão adicionar SSH
+
+cola a chave que vc copiou

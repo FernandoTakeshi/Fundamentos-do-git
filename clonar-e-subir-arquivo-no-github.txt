@@ -1,0 +1,23 @@
+Clonando repositório
+
+abra o cmd git
+
+entre no caminho do seu repositorio (no computador)
+meu (C:\Palomakoba\Palomakoba2.0)
+
+para pegar o repositorio do github
+
+digite...
+git clone git@github.com:ItaloInacio/Palomakoba2.0.git
+
+(vai criar a pasta no caminho que vc informou)
+
+agora vamos criar um arquivo nessa pasta
+
+git add teste.txt
+enter
+
+git commit -m "Adiciona o arquivo teste.txt"
+
+agora para atualizar no GitHub
+ git push 
